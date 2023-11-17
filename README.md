@@ -1,2 +1,2 @@
 # 6502-assembler
-6502 assembler very early stages, so far only done the lexer: more to cum.
+6502 assembler nearly finished just need to generate binary. lexer and Parser done. Might just leave it at Lexer and Parser but idk.
